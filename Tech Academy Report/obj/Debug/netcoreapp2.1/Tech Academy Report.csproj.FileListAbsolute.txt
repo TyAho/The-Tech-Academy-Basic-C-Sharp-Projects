@@ -1,0 +1,11 @@
+C:\Users\nidge\source\repos\Tech Academy Report\Tech Academy Report\bin\Debug\netcoreapp2.1\Tech Academy Report.deps.json
+C:\Users\nidge\source\repos\Tech Academy Report\Tech Academy Report\bin\Debug\netcoreapp2.1\Tech Academy Report.runtimeconfig.json
+C:\Users\nidge\source\repos\Tech Academy Report\Tech Academy Report\bin\Debug\netcoreapp2.1\Tech Academy Report.runtimeconfig.dev.json
+C:\Users\nidge\source\repos\Tech Academy Report\Tech Academy Report\bin\Debug\netcoreapp2.1\Tech Academy Report.dll
+C:\Users\nidge\source\repos\Tech Academy Report\Tech Academy Report\bin\Debug\netcoreapp2.1\Tech Academy Report.pdb
+C:\Users\nidge\source\repos\Tech Academy Report\Tech Academy Report\obj\Debug\netcoreapp2.1\Tech Academy Report.csprojAssemblyReference.cache
+C:\Users\nidge\source\repos\Tech Academy Report\Tech Academy Report\obj\Debug\netcoreapp2.1\Tech Academy Report.csproj.CoreCompileInputs.cache
+C:\Users\nidge\source\repos\Tech Academy Report\Tech Academy Report\obj\Debug\netcoreapp2.1\Tech Academy Report.AssemblyInfoInputs.cache
+C:\Users\nidge\source\repos\Tech Academy Report\Tech Academy Report\obj\Debug\netcoreapp2.1\Tech Academy Report.AssemblyInfo.cs
+C:\Users\nidge\source\repos\Tech Academy Report\Tech Academy Report\obj\Debug\netcoreapp2.1\Tech Academy Report.dll
+C:\Users\nidge\source\repos\Tech Academy Report\Tech Academy Report\obj\Debug\netcoreapp2.1\Tech Academy Report.pdb
