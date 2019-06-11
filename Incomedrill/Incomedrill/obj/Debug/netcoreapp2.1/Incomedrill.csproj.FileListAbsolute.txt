@@ -1,0 +1,11 @@
+C:\Users\nidge\source\repos\Incomedrill\Incomedrill\bin\Debug\netcoreapp2.1\Incomedrill.deps.json
+C:\Users\nidge\source\repos\Incomedrill\Incomedrill\bin\Debug\netcoreapp2.1\Incomedrill.runtimeconfig.json
+C:\Users\nidge\source\repos\Incomedrill\Incomedrill\bin\Debug\netcoreapp2.1\Incomedrill.runtimeconfig.dev.json
+C:\Users\nidge\source\repos\Incomedrill\Incomedrill\bin\Debug\netcoreapp2.1\Incomedrill.dll
+C:\Users\nidge\source\repos\Incomedrill\Incomedrill\bin\Debug\netcoreapp2.1\Incomedrill.pdb
+C:\Users\nidge\source\repos\Incomedrill\Incomedrill\obj\Debug\netcoreapp2.1\Incomedrill.csprojAssemblyReference.cache
+C:\Users\nidge\source\repos\Incomedrill\Incomedrill\obj\Debug\netcoreapp2.1\Incomedrill.csproj.CoreCompileInputs.cache
+C:\Users\nidge\source\repos\Incomedrill\Incomedrill\obj\Debug\netcoreapp2.1\Incomedrill.AssemblyInfoInputs.cache
+C:\Users\nidge\source\repos\Incomedrill\Incomedrill\obj\Debug\netcoreapp2.1\Incomedrill.AssemblyInfo.cs
+C:\Users\nidge\source\repos\Incomedrill\Incomedrill\obj\Debug\netcoreapp2.1\Incomedrill.dll
+C:\Users\nidge\source\repos\Incomedrill\Incomedrill\obj\Debug\netcoreapp2.1\Incomedrill.pdb
