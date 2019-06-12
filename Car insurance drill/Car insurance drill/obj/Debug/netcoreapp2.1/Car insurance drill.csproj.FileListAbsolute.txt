@@ -1,0 +1,10 @@
+C:\Users\nidge\source\repos\Car insurance drill\Car insurance drill\obj\Debug\netcoreapp2.1\Car insurance drill.csproj.CoreCompileInputs.cache
+C:\Users\nidge\source\repos\Car insurance drill\Car insurance drill\obj\Debug\netcoreapp2.1\Car insurance drill.AssemblyInfoInputs.cache
+C:\Users\nidge\source\repos\Car insurance drill\Car insurance drill\obj\Debug\netcoreapp2.1\Car insurance drill.AssemblyInfo.cs
+C:\Users\nidge\source\repos\Car insurance drill\Car insurance drill\bin\Debug\netcoreapp2.1\Car insurance drill.deps.json
+C:\Users\nidge\source\repos\Car insurance drill\Car insurance drill\bin\Debug\netcoreapp2.1\Car insurance drill.runtimeconfig.json
+C:\Users\nidge\source\repos\Car insurance drill\Car insurance drill\bin\Debug\netcoreapp2.1\Car insurance drill.runtimeconfig.dev.json
+C:\Users\nidge\source\repos\Car insurance drill\Car insurance drill\bin\Debug\netcoreapp2.1\Car insurance drill.dll
+C:\Users\nidge\source\repos\Car insurance drill\Car insurance drill\bin\Debug\netcoreapp2.1\Car insurance drill.pdb
+C:\Users\nidge\source\repos\Car insurance drill\Car insurance drill\obj\Debug\netcoreapp2.1\Car insurance drill.dll
+C:\Users\nidge\source\repos\Car insurance drill\Car insurance drill\obj\Debug\netcoreapp2.1\Car insurance drill.pdb
