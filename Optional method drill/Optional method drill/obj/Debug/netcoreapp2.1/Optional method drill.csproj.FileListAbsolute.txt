@@ -1,0 +1,11 @@
+C:\Users\nidge\source\repos\Optional method drill\Optional method drill\bin\Debug\netcoreapp2.1\Optional method drill.deps.json
+C:\Users\nidge\source\repos\Optional method drill\Optional method drill\bin\Debug\netcoreapp2.1\Optional method drill.runtimeconfig.json
+C:\Users\nidge\source\repos\Optional method drill\Optional method drill\bin\Debug\netcoreapp2.1\Optional method drill.runtimeconfig.dev.json
+C:\Users\nidge\source\repos\Optional method drill\Optional method drill\bin\Debug\netcoreapp2.1\Optional method drill.dll
+C:\Users\nidge\source\repos\Optional method drill\Optional method drill\bin\Debug\netcoreapp2.1\Optional method drill.pdb
+C:\Users\nidge\source\repos\Optional method drill\Optional method drill\obj\Debug\netcoreapp2.1\Optional method drill.csprojAssemblyReference.cache
+C:\Users\nidge\source\repos\Optional method drill\Optional method drill\obj\Debug\netcoreapp2.1\Optional method drill.csproj.CoreCompileInputs.cache
+C:\Users\nidge\source\repos\Optional method drill\Optional method drill\obj\Debug\netcoreapp2.1\Optional method drill.AssemblyInfoInputs.cache
+C:\Users\nidge\source\repos\Optional method drill\Optional method drill\obj\Debug\netcoreapp2.1\Optional method drill.AssemblyInfo.cs
+C:\Users\nidge\source\repos\Optional method drill\Optional method drill\obj\Debug\netcoreapp2.1\Optional method drill.dll
+C:\Users\nidge\source\repos\Optional method drill\Optional method drill\obj\Debug\netcoreapp2.1\Optional method drill.pdb
