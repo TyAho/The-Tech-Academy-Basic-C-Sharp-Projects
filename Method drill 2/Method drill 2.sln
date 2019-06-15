@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method drill 2", "Method drill 2\Method drill 2.csproj", "{66F5C78D-E604-410A-8F20-293E00AD3DA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66F5C78D-E604-410A-8F20-293E00AD3DA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F5C78D-E604-410A-8F20-293E00AD3DA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F5C78D-E604-410A-8F20-293E00AD3DA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F5C78D-E604-410A-8F20-293E00AD3DA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {668C25B8-6A5F-4181-A3B9-9FC429E310BD}
+	EndGlobalSection
+EndGlobal
