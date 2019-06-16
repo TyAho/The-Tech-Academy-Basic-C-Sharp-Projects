@@ -1,0 +1,10 @@
+C:\Users\nidge\source\repos\three methods drill\three methods drill\bin\Debug\netcoreapp2.1\three methods drill.deps.json
+C:\Users\nidge\source\repos\three methods drill\three methods drill\bin\Debug\netcoreapp2.1\three methods drill.runtimeconfig.json
+C:\Users\nidge\source\repos\three methods drill\three methods drill\bin\Debug\netcoreapp2.1\three methods drill.runtimeconfig.dev.json
+C:\Users\nidge\source\repos\three methods drill\three methods drill\bin\Debug\netcoreapp2.1\three methods drill.dll
+C:\Users\nidge\source\repos\three methods drill\three methods drill\bin\Debug\netcoreapp2.1\three methods drill.pdb
+C:\Users\nidge\source\repos\three methods drill\three methods drill\obj\Debug\netcoreapp2.1\three methods drill.csproj.CoreCompileInputs.cache
+C:\Users\nidge\source\repos\three methods drill\three methods drill\obj\Debug\netcoreapp2.1\three methods drill.AssemblyInfoInputs.cache
+C:\Users\nidge\source\repos\three methods drill\three methods drill\obj\Debug\netcoreapp2.1\three methods drill.AssemblyInfo.cs
+C:\Users\nidge\source\repos\three methods drill\three methods drill\obj\Debug\netcoreapp2.1\three methods drill.dll
+C:\Users\nidge\source\repos\three methods drill\three methods drill\obj\Debug\netcoreapp2.1\three methods drill.pdb
