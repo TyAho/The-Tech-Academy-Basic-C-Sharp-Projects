@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "generics drill", "generics drill\generics drill.csproj", "{8E539D31-4B44-4FEB-B265-97838BF266AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E539D31-4B44-4FEB-B265-97838BF266AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E539D31-4B44-4FEB-B265-97838BF266AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E539D31-4B44-4FEB-B265-97838BF266AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E539D31-4B44-4FEB-B265-97838BF266AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56045CEB-B082-4D69-BD9D-A7DAA4805D78}
+	EndGlobalSection
+EndGlobal
