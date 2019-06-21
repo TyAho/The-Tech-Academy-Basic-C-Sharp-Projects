@@ -1,0 +1,10 @@
+C:\Users\nidge\source\repos\Text file drill\Text file drill\obj\Debug\netcoreapp2.1\Text file drill.csproj.CoreCompileInputs.cache
+C:\Users\nidge\source\repos\Text file drill\Text file drill\obj\Debug\netcoreapp2.1\Text file drill.AssemblyInfoInputs.cache
+C:\Users\nidge\source\repos\Text file drill\Text file drill\obj\Debug\netcoreapp2.1\Text file drill.AssemblyInfo.cs
+C:\Users\nidge\source\repos\Text file drill\Text file drill\bin\Debug\netcoreapp2.1\Text file drill.deps.json
+C:\Users\nidge\source\repos\Text file drill\Text file drill\bin\Debug\netcoreapp2.1\Text file drill.runtimeconfig.json
+C:\Users\nidge\source\repos\Text file drill\Text file drill\bin\Debug\netcoreapp2.1\Text file drill.runtimeconfig.dev.json
+C:\Users\nidge\source\repos\Text file drill\Text file drill\bin\Debug\netcoreapp2.1\Text file drill.dll
+C:\Users\nidge\source\repos\Text file drill\Text file drill\bin\Debug\netcoreapp2.1\Text file drill.pdb
+C:\Users\nidge\source\repos\Text file drill\Text file drill\obj\Debug\netcoreapp2.1\Text file drill.dll
+C:\Users\nidge\source\repos\Text file drill\Text file drill\obj\Debug\netcoreapp2.1\Text file drill.pdb
