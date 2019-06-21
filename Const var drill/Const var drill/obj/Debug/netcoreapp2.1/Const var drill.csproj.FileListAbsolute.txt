@@ -1,0 +1,11 @@
+C:\Users\nidge\source\repos\Const var drill\Const var drill\bin\Debug\netcoreapp2.1\Const var drill.deps.json
+C:\Users\nidge\source\repos\Const var drill\Const var drill\bin\Debug\netcoreapp2.1\Const var drill.runtimeconfig.json
+C:\Users\nidge\source\repos\Const var drill\Const var drill\bin\Debug\netcoreapp2.1\Const var drill.runtimeconfig.dev.json
+C:\Users\nidge\source\repos\Const var drill\Const var drill\bin\Debug\netcoreapp2.1\Const var drill.dll
+C:\Users\nidge\source\repos\Const var drill\Const var drill\bin\Debug\netcoreapp2.1\Const var drill.pdb
+C:\Users\nidge\source\repos\Const var drill\Const var drill\obj\Debug\netcoreapp2.1\Const var drill.csprojAssemblyReference.cache
+C:\Users\nidge\source\repos\Const var drill\Const var drill\obj\Debug\netcoreapp2.1\Const var drill.csproj.CoreCompileInputs.cache
+C:\Users\nidge\source\repos\Const var drill\Const var drill\obj\Debug\netcoreapp2.1\Const var drill.AssemblyInfoInputs.cache
+C:\Users\nidge\source\repos\Const var drill\Const var drill\obj\Debug\netcoreapp2.1\Const var drill.AssemblyInfo.cs
+C:\Users\nidge\source\repos\Const var drill\Const var drill\obj\Debug\netcoreapp2.1\Const var drill.dll
+C:\Users\nidge\source\repos\Const var drill\Const var drill\obj\Debug\netcoreapp2.1\Const var drill.pdb
